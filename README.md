@@ -31,8 +31,8 @@ I am a student at [Taras Shevchenko National University of Kyiv](https://www.uni
 I am actively seeking a FrontEnd position where I can learn from more experienced colleagues, develop my skills, and contribute to the team. I am eager to further enhance my abilities and take on new challenges in a dynamic environment.
 
 ## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Portfolio](https://your-portfolio-site.com)
+- My LinkedIn: [Click](https://www.linkedin.com/in/your-profile)
+- My Instagram: [Click](https://www.instagram.com/_allesanndro_?igsh=MTM3YnFjODdlenNyMQ==)
+- My Telegram: @Allesanndro
 
 
