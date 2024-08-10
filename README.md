@@ -1,7 +1,7 @@
 ![Header](https://github.com/AleksPh/ProfileStaff/blob/master/github-header-image.png)
 
 
-I am a student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), studying at the Faculty of Computer Science and Cybernetics with a major in Informatics. I have a strong mathematical background, evidenced by my participation in numerous math competitions and Olympiads. I am passionate about the IT field, particularly FrontEnd development. I quickly learn new technologies and skills. Additionally, I am a responsible person with strong time management skills, highly adaptable, and goal-oriented.
+I`m a student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), studying at the Faculty of Computer Science and Cybernetics with a major in Informatics. I have a strong mathematical background, evidenced by my participation in numerous math competitions and Olympiads. I am passionate about the IT field, particularly FrontEnd development. I quickly learn new technologies and skills. Additionally, I am a responsible person with strong time management skills, highly adaptable, and goal-oriented.
 
 ## 🛠️ Skills & Technologies
 
