@@ -28,7 +28,7 @@ I`m a student at [Taras Shevchenko National University of Kyiv](https://www.univ
 - **SV** [CV_Pelykh Oleksander_FrontEnd](https://drive.google.com/drive/folders/1f521JoxW2akyzE-5nUYNfk9eYoRboowQ?usp=sharing)
 
 ## 🎯 Goals
-I am actively seeking a FrontEnd position where I can learn from more experienced colleagues, develop my skills, and contribute to the team. I am eager to further enhance my abilities and take on new challenges in a dynamic environment.
+I aim to continually enhance my frontend development skills, climb the career ladder, and acquire valuable hands-on experience to bring ambitious projects to life!
 
 ## 🤝 Let's Connect
 - My LinkedIn: [Click](https://www.linkedin.com/in/oleksandr-pelykh-9a4b08293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
