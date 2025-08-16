@@ -1,4 +1,4 @@
-![Header](https://share.google/images/ykj03GX4Vmza1aXxA)
+![Header]([https://share.google/images/ykj03GX4Vmza1aXxA](https://prod.cdn.business.wfu.edu/uploads/2015/11/Web__What-is-Bussines-Analytics.webp))
 
 ## 👋 About Me  
 I am a Data Analyst with 1+ year of experience in **marketing data analytics** and 2 years of teaching mathematics to high school students.  
