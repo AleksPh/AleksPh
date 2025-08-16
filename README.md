@@ -29,7 +29,7 @@ Strong mathematical background and hands-on experience with SQL, BI tools, JavaS
 ## 📫 Contact Me  
 - **Email:** [pelykholeksander@gmail.com](mailto:pelykholeksander@gmail.com)  
 - **LinkedIn:** [Oleksandr Pelykh](https://www.linkedin.com/in/oleksandr-pelykh-9a4b08293)  
-- **CV:** [CV_Pelykh Oleksander_Data Analyst](https://drive.google.com/drive/folders/1f521JoxW2akyzE-5nUYNfk9eYoRboowQ?usp=sharing)  
+- **CV:** [CV_Pelykh Oleksander_Data Analyst](https://drive.google.com/file/d/1628kGITR94DOyF_3-iRny7L9lh-Zh_hl/view?usp=drive_link)
 
 ---
 
@@ -39,6 +39,5 @@ I aim to grow into a **Marketing Data Analyst**, mastering BI tools, advanced an
 ---
 
 ## 🤝 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/oleksandr-pelykh-9a4b08293)  
 - [Instagram](https://www.instagram.com/_allesanndro_)  
 - [Telegram](https://t.me/Allesanndro)  
