@@ -1,4 +1,4 @@
-![Header]([https://github.com/AleksPh/ProfileStaff/blob/master/github-header-image.png](https://share.google/images/ykj03GX4Vmza1aXxA))
+![Header](https://share.google/images/ykj03GX4Vmza1aXxA)
 
 ## 👋 About Me  
 I am a Data Analyst with 1+ year of experience in **marketing data analytics** and 2 years of teaching mathematics to high school students.  
