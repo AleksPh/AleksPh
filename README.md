@@ -34,7 +34,7 @@ Strong mathematical background and hands-on experience with SQL, BI tools, JavaS
 ---
 
 ## 🎯 Goals  
-I aim to grow into a **Marketing Data Analyst**, mastering BI tools, advanced analytics, and data-driven decision-making to optimize marketing performance and business outcomes.  
+I aim to advance my career as a Data Analyst by deepening expertise in BI tools, marketing analytics, and automation, contributing to data-driven decision-making and business growth.
 
 ---
 
