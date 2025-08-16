@@ -1,6 +1,6 @@
 ## 👋 About Me  
 I am a Data Analyst with 1+ year of experience in **marketing data analytics** and 2 years of teaching mathematics to high school students.  
-Currently, I am a 3rd-year student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), Faculty of Computer Science and Cybernetics, majoring in **Informatics**.  
+Currently, I am a 4th-year student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), Faculty of Computer Science and Cybernetics, majoring in **Informatics**.  
 
 I specialize in data analysis, process automation, and building insightful dashboards.  
 Strong mathematical background and hands-on experience with SQL, BI tools, JavaScript, and Python allow me to transform raw data into actionable insights.  
