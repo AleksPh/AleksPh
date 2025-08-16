@@ -5,7 +5,7 @@ I am a Data Analyst with 1+ year of experience in marketing analytics at **DGTL 
 Currently, I am a 3rd-year student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), Faculty of Computer Science and Cybernetics, majoring in **Informatics**.  
 
 I specialize in data analysis, process automation, and building insightful dashboards.  
-Strong mathematical background and hands-on experience with SQL, BI tools, APIs, and Python allow me to transform raw data into actionable insights.  
+Strong mathematical background and hands-on experience with SQL, BI tools, JavaScript, and Python allow me to transform raw data into actionable insights.  
 
 ---
 
@@ -14,13 +14,12 @@ Strong mathematical background and hands-on experience with SQL, BI tools, APIs,
 ### Data Analytics & Visualization  
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-- ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)  
 - ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)  
 
 ### Programming & Automation  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
 - ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)  
-- API integration (data pipelines, automation of workflows)  
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ### Marketing Analytics  
