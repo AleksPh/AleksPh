@@ -1,5 +1,3 @@
-![Header](https://prod.cdn.business.wfu.edu/uploads/2015/11/Web__What-is-Bussines-Analytics.webp)
-
 ## 👋 About Me  
 I am a Data Analyst with 1+ year of experience in **marketing data analytics** and 2 years of teaching mathematics to high school students.  
 Currently, I am a 3rd-year student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), Faculty of Computer Science and Cybernetics, majoring in **Informatics**.  
