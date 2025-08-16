@@ -1,7 +1,7 @@
-![Header]([https://github.com/AleksPh/ProfileStaff/blob/master/github-header-image.png](https://pixabay.com/ru/photos/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA-1841554/))
+![Header]([https://github.com/AleksPh/ProfileStaff/blob/master/github-header-image.png](https://share.google/images/ykj03GX4Vmza1aXxA))
 
 ## 👋 About Me  
-I am a Data Analyst with 1+ year of experience in marketing analytics at **DGTL Religion** and 2 years of teaching mathematics to high school students.  
+I am a Data Analyst with 1+ year of experience in **marketing data analytics** and 2 years of teaching mathematics to high school students.  
 Currently, I am a 3rd-year student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), Faculty of Computer Science and Cybernetics, majoring in **Informatics**.  
 
 I specialize in data analysis, process automation, and building insightful dashboards.  
