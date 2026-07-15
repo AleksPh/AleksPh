@@ -1,42 +1,37 @@
-## 👋 About Me  
-I am a Data Analyst with 1+ year of experience in **marketing data analytics** and 2 years of teaching mathematics to high school students.  
-Currently, I am a 4th-year student at [Taras Shevchenko National University of Kyiv](https://www.univ.kiev.ua/), Faculty of Computer Science and Cybernetics, majoring in **Informatics**.  
+## 👋 About Me
 
-I specialize in data analysis, process automation, and building insightful dashboards.  
-Strong mathematical background and hands-on experience with SQL, BI tools, JavaScript, and Python allow me to transform raw data into actionable insights.  
+Analyst with 2+ years of experience in fintech, marketing analytics, and education. Strong mathematical background with a Bachelor's degree in Informatics from Taras Shevchenko National University of Kyiv. Skilled in building dashboards, automating data workflows, and delivering analytical solutions across multiple markets. Product-oriented mindset with a focus on translating business needs into actionable insights.
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠️ Skills & Technologies
 
-### Data Analytics & Visualization  
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)  
+### Data & BI
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+- Apache Superset, Looker
 
-### Programming & Automation  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
-- ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)  
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+### Databases
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+- ClickHouse, MySQL
 
-### Marketing Analytics  
-- Campaign metrics: ROI, CPA, PayOut, CVR, CPV, EPV  
-- Marketing tracking tools: ClickFlare, Crossroads, Sedo, AdHeart  
+### Data Pipelines & Automation
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)
+- Airflow, SFTP, MinIO, API integration
 
----
-
-## 📫 Contact Me  
-- **Email:** [pelykholeksander@gmail.com](mailto:pelykholeksander@gmail.com)  
-- **LinkedIn:** [Oleksandr Pelykh](https://www.linkedin.com/in/oleksandr-pelykh-9a4b08293)  
-
----
-
-## 🎯 Goals  
-I aim to advance my career as a Data Analyst by deepening expertise in BI tools, marketing analytics, and automation, contributing to data-driven decision-making and business growth.
+### Analytics
+- Product: funnel analysis, retention, conversion metrics
+- Marketing: ROI, CPA, PayOut, CVR, CPV, EPV
 
 ---
 
-## 🤝 Let's Connect  
-- [Instagram](https://www.instagram.com/_allesanndro_)  
-- [Telegram](https://t.me/Allesanndro)  
+
+## 📫 Contact Me
+
+- **Email:** [pelykholeksander@gmail.com](mailto:pelykholeksander@gmail.com)
+- **LinkedIn:** [Oleksandr Pelykh](https://www.linkedin.com/in/oleksandr-pelykh-9a4b08293)
+- **Telegram:** [@Allesanndro](https://t.me/Allesanndro)
+- **Instagram:** [@_allesanndro_](https://www.instagram.com/_allesanndro_)
